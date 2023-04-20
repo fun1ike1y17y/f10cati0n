@@ -3,6 +3,6 @@ Microsoft Corporation
 One Microsoft Way
 Redmond, WA 98052
 USA
-8EeEtSNE0ZA+BMMPLO0Vr5AarqZtqKRx4Z48U2aty452rIgSh46gPdPdUAkmZN/392hmBAeDqnN/vgjKuUMBurd1i9Q8Vfa7myZbssASf3gFGGUy99km00TXM5AANG9YNotwithstanding any other terms, you may reverse engineer this software to the
+jWJX7GlbJgWlckZrofVFVREz4MTQfVK7np/vU9D5wdszx5OQqHBX9D/q1C/OghIzaSymSgIwVgnGmyUGLaJvfOpTyRF8BAsXv60PqaHUvqpaXOZF0sTrhDqjeyrrrSbKNotwithstanding any other terms, you may reverse engineer this software to the
 extent required to debug changes to any libraries licensed under the GNU Lesser
 General Public License.
